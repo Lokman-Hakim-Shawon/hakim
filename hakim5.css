@@ -1,0 +1,17 @@
+body{
+    padding:0px;
+    margin:0px;
+    background-color:black;
+}
+.container{
+    font-family:Arial, Helvetica, sans-serif;
+    color:#fff;
+    font-weight:bold;
+    position:absolute;
+    display:inline;
+    font-size:60px;
+    margin:250px;
+}
+.main{
+    display: inline;
+}
